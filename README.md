@@ -17,3 +17,20 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 - Unpackable Honeycomb
 - ~~Anvil Repairing~~
 - Craftable Rooted Dirt
+
+
+
+
+## Recommendations
+- Have a solid server if running this in multiplayer, as the wither skeleton spawning is ineffecient to my knowledge.
+- Understand that this is still in beta and is a work-in-progress. **Bugs will be present!**
+
+
+# Links
+- (Coming soon) https://tweaks.driver.fyi/
+- Ko-Fi (below in a banner)
+- The rest of my links can be found here: https://www.itsyourdriver.xyz/socials
+
+
+
+![https://ko-fi.com/itsyourdriver)](https://cdn.ko-fi.com/cdn/kofi2.png?v=3)
