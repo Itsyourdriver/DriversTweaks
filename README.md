@@ -33,7 +33,7 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 
 Download the most recent tag from the releases section in the repo.
 Open the .zip, and copy the .zip inside of there into the "datapacks" folder in your main world or into the temporary datapack folder when creating a world.
-**If you find any bugs or are unsure on how to install, join the support server.**
+**If you find any bugs or are unsure on how to install, join my discord to get support with the pack.**
 
 
 
