@@ -1,5 +1,4 @@
-
-
+tellraw @p {"text":"---Driver's Tweaks Loaded---","color":"black"}
 
 scoreboard objectives add witherskeletonsp dummy
 
