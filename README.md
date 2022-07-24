@@ -3,8 +3,8 @@
 # DriversTweaks
 DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla game, adds features, and makes the vanilla experience more enjoyable.
 
-[![Join us on Discord]([https://img.shields.io/discord/685683385313919172.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2])](https://discord.gg/zKZsaXrmpV)
 
+[![](https://img.shields.io/discord/787809185391575060.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zKZsaXrmpV)
 
 
 ## Changes
