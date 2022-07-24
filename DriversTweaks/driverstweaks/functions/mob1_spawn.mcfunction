@@ -1,4 +1,4 @@
-#### EXECUTE AS AT ELIGIBLE ZOMBIE PIGLIN
+#### EXECUTE AS AT ELIGIBLE Skeleton
 
 ## If matches 0
 execute if score mob1_count cm_example matches 0 run summon minecraft:wither_skeleton ~ ~ ~
