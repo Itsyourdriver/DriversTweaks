@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:"Itsyourdriver"}"
+		},
+		"title": "DriversTweaks",
+		"frame": "challenge",
+		"description": ["",{"text":"Pack is loaded!\n","color":"white"},{"text":"With credit to vanillatweaks.net & the timber forge.","color":"gray"}],
+		"background": "minecraft:textures/block/polished_deepslate.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
