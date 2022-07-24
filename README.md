@@ -16,3 +16,4 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 - Unpackable Minecarts
 - Unpackable Honeycomb
 - ~~Anvil Repairing~~
+- Craftable Rooted Dirt
