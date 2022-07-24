@@ -42,3 +42,6 @@ Open the .zip, and copy the .zip inside of there into the "datapacks" folder in 
 - Ko-Fi: https://ko-fi.com/itsyourdriver
 - The rest of my links can be found here: https://www.itsyourdriver.xyz/socials
 
+
+# License
+Should be added sometime today :)
