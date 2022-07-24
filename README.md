@@ -27,10 +27,7 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 
 
 # Links
-- (Coming soon) https://tweaks.driver.fyi/
-- Ko-Fi (below in a banner)
+- (Coming soon): https://tweaks.driver.fyi/
+- Ko-Fi: https://ko-fi.com/itsyourdriver
 - The rest of my links can be found here: https://www.itsyourdriver.xyz/socials
 
-
-
-![https://ko-fi.com/itsyourdriver)](https://cdn.ko-fi.com/cdn/kofi2.png?v=3)
