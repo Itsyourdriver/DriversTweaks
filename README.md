@@ -9,22 +9,23 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 
 ## Changes
 
-- Wither Skeletons have a tiny change to spawn in soul sand valleys.
+- Wither skeletons have a tiny chance to spawn with a bow
+- Skeleton horses have a tiny chance to spawn in soul sand valleys.
 - [VanillaTweaks.net] Back To Blocks
 - [VanillaTweaks.net] Double Sabs
 - [VanillaTweaks.net] Blackstone to Cobblestone
 - [VanillaTweaks.net] More Trapdoors, Stairs, Bricks
 - [VanillaTweaks.net] Craftable Gravel, Bundles (Rabbit Hide)
+- [VanillaTweaks.net] Universal Dying
 - Unpackable Minecarts
 - Unpackable Honeycomb
-- ~~Anvil Repairing~~
 - Craftable Rooted Dirt
 
 
 
 
 ## Recommendations
-- Have a solid server if running this in multiplayer, as the wither skeleton spawning is ineffecient to my knowledge.
+- Have a solid server if running this in multiplayer, as the custom spawning is a tiny bit ineffecient.
 - Understand that this is still in beta and is a work-in-progress. **Bugs will be present!**
 
 
