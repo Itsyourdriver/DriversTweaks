@@ -9,8 +9,8 @@ DriversTweaks is a minecraft 1.19+ datapack that changes parts of the vanilla ga
 
 ## Changes
 
-- Wither skeletons have a tiny chance to spawn with a bow  (if I can get it working, this will be toggleable.)
-- Skeleton horses have a tiny chance to spawn in soul sand valleys. (if I can get it working, this will be toggleable.)
+- Wither skeletons have a tiny chance to spawn with a bow  (if I can make this toggleable, it will be)
+- Skeleton horses have a tiny chance to spawn in soul sand valleys. (if I can make this toggleable, it will be)
 - [VanillaTweaks.net] Back To Blocks
 - [VanillaTweaks.net] Double Sabs
 - [VanillaTweaks.net] Blackstone to Cobblestone
